@@ -6,11 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": ["nodejs", "pay", "union", "union pay", "银联"],
+  "repository": "https://github.com/Tank/union-pay-nodejs",
   "author": "Tank <frog2020@126.com>",
   "license": "ISC",
   "dependencies": {
     "iconv-lite": "^0.4.23",
-    "pem": "^1.12.5",
     "pemutils": "^1.0.3",
     "request": "^2.88.0",
     "silly-datetime": "^0.1.2"
